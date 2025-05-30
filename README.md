@@ -1,98 +1,84 @@
-<!-- GIF -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://i.imgur.com/ZioG6fA.gif" align="center" style="width: 100%; max-width: 800px;" alt="Banner"/>
-</div>  
+<!-- Header -->
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://i.imgur.com/ZioG6fA.gif" style="width: 100%; max-width: 800px;" alt="Banner"/>
+</div>
 
-<div align="center" style="margin-top: 10px;">
+<div style="text-align: center; margin-top: 10px;">
   <h1 style="color: #FF69B4; font-size: 2.5em; margin-bottom: 5px;">👋 Hello! I'm Alex</h1>
   <p style="color: #00FFFF; font-size: 1.2em; margin-top: 0px; margin-bottom: 20px;">
     🐍 `Python Dev` | 🤖 `AI/ML Enthusiast` | 🌱 `Automation`
   </p>
 </div>
 
+<hr/>
+
+<!-- Contact -->
+<div style="text-align: center; margin-top: 10px; margin-bottom: 10px; font-size: 1.0em;">
+  <a href="mailto:alex@fear.pw" style="color: #50A1FF; margin: 0 10px;">alex [at] fear [dot] pw</a>
+  <span style="color: #6900FF; margin: 0 5px;">|</span>
+  <a href="http://159.89.178.159/good_times.txt" style="color: #C9D1D9; margin: 0 10px;">GMZQ NCC5 MN2Q NEQN</span>
+  <span style="color: #6900FF; margin: 0 5px;">|</span>
+  <a href="mailto:admin@portlords.com" target="_blank" style="color: #50A1FF; margin: 0 10px;">admin [at] portlords [dot] com</a>
+</div>
+
 <!-- Website Links -->
-<div align="center" style="margin-bottom: 10px; font-size: 1.1em;">
-  <a href="https://portlords.com" target="_blank" style="color: #5596E6; text-decoration: none; margin: 0 10px; font-weight: bold;">`portlords.com`</a>
+<div style="text-align: center; margin-bottom: 10px; font-size: 1.1em;">
+  <a href="https://portlords.com" target="_blank" rel="noopener noreferrer" style="color: #50A1FF; text-decoration: none; margin: 0 10px; font-weight: bold;">portlords.com</a>
   <span style="color: #666; margin: 0 5px;">|</span>
-  <a href="https://mallory.pw" target="_blank" style="color: #7B68EE; text-decoration: none; margin: 0 10px; font-weight: bold;">`mallory.pw`</a>
+  <a href="https://mallory.pw" target="_blank" rel="noopener noreferrer" style="color: #6900FF; text-decoration: none; margin: 0 10px; font-weight: bold;">mallory.pw</a>
   <span style="color: #666; margin: 0 5px;">|</span>
-  <a href="https://mulicio.us" target="_blank" style="color: #78C850; text-decoration: none; margin: 0 10px; font-weight: bold;">`mulicio.us`</a>
+  <a href="https://mulicio.us" target="_blank" rel="noopener noreferrer" style="color: #78C850; text-decoration: none; margin: 0 10px; font-weight: bold;">mulicio.us</a>
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://ililililililililililililillilliliillliiililllilililililiillilil.ilililililililililililililliiiilililliiililllilililililiillilil.com/" target="_blank" style="font-family: monospace; word-break: break-all; color: #FFA500; text-decoration: none; font-size: 0.9em;">
-    ililililililililililililillilliliillliiililllilililililiillilil.ilililililililililililililliiiilililliiililllilililililiillilil.com
-  </a>
-</div>
-
-<!-- Social Badges -->
-<div align="center" style="margin-bottom: 30px;">
-  <a href="https://github.com/herawenn" target="_blank"><img src="https://img.shields.io/badge/GitHub-%40herawenn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://instagram.com/portlord.ss" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40portlord.ss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://discordapp.com/users/1143350468144275578" target="_blank"><img src="https://img.shields.io/badge/Discord-Herawenn-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<!-- Socials -->
+<div style="text-align: center; margin-bottom: 30px;">
+  <a href="https://github.com/herawenn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-%40herawenn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/portlord.ss" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%40portlord.ss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discordapp.com/users/1143350468144275578" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-Herawenn-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="mailto:alex@fear.pw" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<p align="center">
+<p style="text-align: center;">
   <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGRkYiLz48L3N2Zz4=" width="80%" alt="Separator"/>
 </p>
 
-<!-- About Me -->
-<div align="left" style="padding: 0 20px;">
-  <h2 style="color: #FF69B4; text-align: center;">🚀 About Me</h2>
-  <ul>
-    <li>🧠 I’m currently learning <strong>Automation<strong> using <strong>AI/ML</strong>.</li>
-    <li>🌱 My main is <strong>Python</strong>, but I also like <strong>C#</strong>.</li>
-    <li>⏳ I've been coding in my spare time since <strong>2020</strong>.</li>
-    <li>🤤 I have an addiction to <strong>Data</strong>.</li>
-    <li>⚡ Fun fact: I prefer <strong>tabs<strong> over <strong>spaces</strong> 😉</li>
-    <li>🤝 Actively seeking collaborators for <strong>AI</strong> projects. Let's build something together!</li>
-  </ul>
-</div>
-
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/gruvbox/border.svg" width="100%" alt="Separator"/>
-</p>
-
 <!-- News -->
-<div align="center" style="margin-bottom: 20px;">
+<div style="text-align: center;" style="margin-bottom: 20px;">
   <h3 style="color: #00FFFF;">📰 Latest in AI</h3>
   <!-- START_AI_NEWS_HEADLINE -->
   <p><em>Fetching the latest AI news...</em> 🤖</p>
   <!-- END_AI_NEWS_HEADLINE -->
 </div>
 
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/gruvbox/border.svg" width="100%" alt="Separator"/>
-</p>
+<!-- Collapsible Sections -->
 
-<!-- Stats -->
-<div align="center">
-  <h2 style="color: #FF69B4;">📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" />
-     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herawenn&layout=compact&theme=radical&langs_count=8&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false" alt="Herawenn's Top Languages" />
-</div>
+<details>
+  <summary><span style="font-weight: bold; color: #C9D1D9; font-size: 1.1em;">↕️ Expand for more!</span></summary>
+  <div style="padding-left: 25px; color: #C9D1D9; margin-top: 5px;">
+    <p><em>This section contains more introductory information about me.</em></p>
+  </div>
+</details>
 
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/gruvbox/border.svg" width="100%" alt="Separator"/>
-</p>
-
-<!-- Contributions -->
-<p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herawenn&theme=synthwave&fire=FF69B4&ring=00FFFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF&background=1D1F21" alt="GitHub Streak for Herawenn" />
-</p>
-
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/gruvbox/border.svg" width="100%" alt="Separator"/>
-</p>
+<!-- About Me -->
+<details>
+  <summary><span style="font-weight: bold; color: #C9D1D9; font-size: 1.1em;">👤 About</span></summary>
+  <div align="left" style="padding: 0 20px;">
+    <h2 style="color: #FF69B4; text-align: center;">🚀 About Me</h2>
+    <ul>
+      <li>🧠 I’m currently learning <strong>Automation</strong> using <strong>AI/ML</strong>.</li>
+      <li>🌱 My main is <strong>Python</strong>, but I also like <strong>C#</strong>.</li>
+      <li>⏳ I've been coding in my spare time since <strong>2020</strong>.</li>
+      <li>🤤 I have an addiction to <strong>Data</strong>.</li>
+      <li>⚡ Fun fact: I prefer <strong>tabs</strong> over <strong>spaces</strong> 😉</li>
+      <li>🤝 Actively seeking collaborators for <strong>AI</strong> projects. Let's build something together!</li>
+    </ul>
+  </div>
+</details>
 
 <!-- Tech Stack -->
-<div align="center">
+<details>
+  <summary><span style="font-weight: bold; color: #C9D1D9; font-size: 1.1em;">✨ Tech Stack</span></summary>
+<div style="text-align: center;">
   <h2 style="color: #FF69B4;">🛠️ My Tech Stack</h2>
   <p>Some of the random stuff ive learned:</p>
   
@@ -124,14 +110,27 @@
     <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   </p>
 </div>
+</details>
 
-<!-- Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/gruvbox/border.svg" width="100%" alt="Separator"/>
+<!-- Stats -->
+<details>
+  <summary><span style="font-weight: bold; color: #C9D1D9; font-size: 1.1em;">📊 Metrics</span></summary>
+<div style="text-align: center;">
+  <h2 style="color: #FF69B4;">📊 My GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herawenn&layout=compact&theme=radical&langs_count=8&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false" alt="Herawenn's Top Languages" />
+</div>
+</details>
+
+<br/>
+
+<!-- Contributions -->
+<p style="text-align: center; margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herawenn&theme=synthwave&fire=FF69B4&ring=00FFFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF&background=1D1F21" alt="GitHub Streak for Herawenn" />
 </p>
 
 <!-- Snake -->
-<div align="center">
+<div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
@@ -139,18 +138,13 @@
   </picture>
 </div>
 
-<!-- Coffee / Views -->
-<div align="center">
-  <h2 style="color: #FF69B4;">☕ Buy me a coffee</h2>
-  <a href="https://www.buymeacoffee.com/herawenn" target="_blank" style="display: inline-block; margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=herawenn&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile Views Counter for Herawenn" />
+<!-- Footer 1 -->
+<div style="text-align: center; margin-top: 10px; font-family: monospace; color: #388BF2; font-size: 0.9em;">
+  ililililililililililililillilliliillliiililllilililililiillilil.ilililililililililililililliiiilililliiililllilililililiillilil.com
 </div>
 
-<!-- Footer -->
-<p align="center" style="margin-top: 30px;">
+<!-- Footer 2 -->
+<p style="text-align: center; margin-top: 30px;">
   <small style="color: #FFD700;">From PortLords w Love ❤️</small>
   <br/>
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/pixel-Dino%20sk%C3%B3rka.gif" width="80" alt="Pixel Dino GIF" style="margin-top:10px;">
