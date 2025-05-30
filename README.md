@@ -94,5 +94,5 @@
 <p style="text-align: center; margin-top: 50px; margin-bottom: 20px;">
   <small style="color: #8B949E;">From PortLords w Love ❤️</small>
   <br/>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/pixel-Dino%20sk%C3%B3rka.gif" width="60" alt="Pixel Dino GIF" style="margin-top:10px;">
+  <img src="https://i.imgur.com/MaeVf4P.gif" width="60" alt="Pixel Dino GIF" style="margin-top:10px;">
 </p>
