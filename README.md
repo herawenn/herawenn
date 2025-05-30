@@ -6,13 +6,7 @@
   <div style="flex-grow: 1;">
     <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">👋 Hello! I'm Alex</h1>
     <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px;">
-      🐍 Python Dev | 🤖 AI/ML Enthusiast | 🌱 Automation
-    </p>
-    <p style="margin-bottom: 10px; font-size: 0.9em; color: #C9D1D9;">
-      <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;">alex@fear.pw</a>
-      <span style="margin: 0 5px;">|</span>
-      <a href="https://portlords.com" target="_blank" style="color: #58A6FF; text-decoration: none;">portlords.com</a>
-    </p>
+      [`alex@fear.pw`](mailto:alex@fear.pw) | [`GMZQ NCC5 MN2Q NEQN`](http://159.89.178.159/good_times.txt) | [`admin@portlords.com`](mailto:admin@portlords.com)
     <div style="margin-bottom: 20px;">
       <a href="https://github.com/herawenn" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/github.svg?color=%23c9d1d9&height=24" alt="GitHub"/></a>
       <a href="https://portlords.com" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/web.svg?color=%23c9d1d9&height=24" alt="Website"/></a>
@@ -24,9 +18,6 @@
 
 <details style="margin-bottom: 20px;">
   <summary><span style="font-weight: bold; color: #C9D1D9; font-size: 1.1em;">↕️ Expand for more!</span></summary>
-  <div style="padding-left: 25px; color: #C9D1D9; margin-top: 5px;">
-    <p><em>This section contains more introductory information about me. Feel free to customize this.</em></p>
-  </div>
 </details>
 
 <div style="margin-bottom: 30px;">
@@ -42,11 +33,6 @@
     </ul>
   </div>
 </div>
-
-<div style="margin-bottom: 30px;">
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">📰 Latest Blog Posts / Updates</h2>
-  <p><em><a href="YOUR_BLOG_LINK_HERE" style="color: #58A6FF;">Check out my latest thoughts!</a> (Or, fetching the latest updates... 🤖)</em></p>
-  </div>
 
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">✨ Tech Stack</h2>
