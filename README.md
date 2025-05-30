@@ -39,9 +39,6 @@
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">✨ Tech Stack</h2>
   <p style="margin-left: 10px;">Some of the technologies I've worked with:</p>
-  
-  <h3 style="font-size: 1.3em; margin-left: 10px;">Frontend</h3>
-  <p style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
