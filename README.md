@@ -63,10 +63,9 @@
 
 <div style="margin-bottom: 30px;">
   
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">📊 Metrics & Activity</h2>
+  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">📊 Metrics</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" style="max-width: 495px; flex-grow: 1;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=herawenn&theme=synthwave&fire=FF69B4&ring=00FFFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF&background=1D1F21" alt="GitHub Streak for Herawenn" style="max-width: 450px; flex-grow: 1;" />
   </div>
 
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🐍 Contribution Snake</h2>
