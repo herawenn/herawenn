@@ -22,15 +22,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark # Optional: dark mode version
-            # dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7ddc # Optional: GIF version
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit and Push Snake Animation
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action (Snake)"
-          # Check if any of the generated files have changed
-          # Use || true to prevent script from failing if no files match (e.g., if only one svg is generated)
           if ! git diff --quiet -- dist/github-contribution-grid-snake*.svg dist/ocean.gif 2>/dev/null || true; then
             git add dist/github-contribution-grid-snake*.svg dist/ocean.gif # Add all potential output files
             git commit -m "Chore: Updated contribution snake animation 🐍"
