@@ -29,8 +29,8 @@
       <li>🧠 I’m currently learning <strong>Automation</strong> using <strong>AI/ML</strong>.</li>
       <li>🌱 My main language is <strong>Python</strong>, but I also like <strong>C#</strong>.</li>
       <li>⏳ I've been coding in my spare time since <strong>2020</strong>.</li>
-      <li>🤤 I have an addiction to <strong>Data</strong>.</li>
-      <li>⚡ Fun fact: I prefer <strong>tabs</strong> over <strong>spaces</strong> 😉</li>
+      <li>🚬 I have an addiction to <strong>Data</strong>.</li>
+      <li>😆 If at first you don't succeed; call it <strong>Version 1.0</strong>.</li>
       <li>🤝 Actively seeking collaborators for <strong>AI</strong> projects. Let's build something together!</li>
     </ul>
   </div>
