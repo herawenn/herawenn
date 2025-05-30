@@ -13,11 +13,11 @@
 
 <!-- Website Links -->
 <div align="center" style="margin-bottom: 10px; font-size: 1.1em;">
-  <a href="https://portlords.com" target="_blank" style="color: #5596E6; text-decoration: none; margin: 0 10px; font-weight: bold;">portlords.com</a>
+  <a href="https://portlords.com" target="_blank" style="color: #5596E6; text-decoration: none; margin: 0 10px; font-weight: bold;">`portlords.com`</a>
   <span style="color: #666; margin: 0 5px;">|</span>
-  <a href="https://mallory.pw" target="_blank" style="color: #7B68EE; text-decoration: none; margin: 0 10px; font-weight: bold;">mallory.pw</a>
+  <a href="https://mallory.pw" target="_blank" style="color: #7B68EE; text-decoration: none; margin: 0 10px; font-weight: bold;">`mallory.pw`</a>
   <span style="color: #666; margin: 0 5px;">|</span>
-  <a href="https://mulicio.us" target="_blank" style="color: #78C850; text-decoration: none; margin: 0 10px; font-weight: bold;">mulicio.us</a>
+  <a href="https://mulicio.us" target="_blank" style="color: #78C850; text-decoration: none; margin: 0 10px; font-weight: bold;">`mulicio.us`</a>
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
