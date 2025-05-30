@@ -122,13 +122,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-    <img alt="Herawenn's Contribution Snake" src="dist/github-contribution-grid-snake.svg">
+    <img alt="" src="dist/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<!-- Footer 1 -->
-<div style="text-align: center; margin-top: 10px; font-family: monospace; color: #388BF2; font-size: 0.9em;">
-  ililililililililililililillilliliillliiililllilililililiillilil.ilililililililililililililliiiilililliiililllilililililiillilil.com
 </div>
 
 <!-- Footer 2 -->
