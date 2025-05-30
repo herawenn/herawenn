@@ -3,11 +3,10 @@
   <img src="https://i.imgur.com/ZioG6fA.gif" align="center" style="width: 100%; max-width: 800px;" alt="Banner"/>
 </div>  
 
-<!-- Header Text -->
 <div align="center" style="margin-top: 10px;">
   <h1 style="color: #FF69B4; font-size: 2.5em; margin-bottom: 5px;">👋 Hello! I'm Alex</h1>
   <p style="color: #00FFFF; font-size: 1.2em; margin-top: 0px; margin-bottom: 20px;">
-    🐍 Python Dev | 🤖 AI/ML Enthusiast | 🌱 Automation
+    🐍 `Python Dev` | 🤖 `AI/ML Enthusiast` | 🌱 `Automation`
   </p>
 </div>
 
