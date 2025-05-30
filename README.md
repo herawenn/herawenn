@@ -90,9 +90,3 @@
     </picture>
   </div>
 </div>
-
-<p style="text-align: center; margin-top: 50px; margin-bottom: 20px;">
-  <small style="color: #8B949E;">From PortLords w Love ❤️</small>
-  <br/>
-  <img src="https://i.imgur.com/MaeVf4P.gif" alt="Pixel Dino GIF" style="margin-top:10px;">
-</p>
