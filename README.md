@@ -39,22 +39,14 @@ github.md
 
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🚀 My Top Repositories</h2>
-  <div style="padding: 0 10px;">
-    <p>Here are a few projects I'm proud of:</p>
-    <ul>
-      <li>
-        <a href="YOUR_REPO_LINK_1" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Project Name 1</a> - Brief description of what this project does and its purpose. (Tech used: Python, Flask)
-      </li>
-      <li>
-        <a href="YOUR_REPO_LINK_2" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Project Name 2</a> - Another exciting project that solves a particular problem. (Tech used: C#, .NET)
-      </li>
-      <li>
-        <a href="YOUR_REPO_LINK_3" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Project Name 3</a> - A tool or library I developed. (Tech used: JavaScript, Node.js)
-      </li>
-      </ul>
-    <p><em>You can also use <a href="https://github.com/anuraghazra/github-readme-stats#pinned-repos-card" style="color: #58A6FF;">GitHub Readme Stats pinned repo cards</a> for a more visual style.</em></p>
-    <p><em>Alternatively, configure your <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile" style="color: #58A6FF;">pinned repositories on GitHub</a>, and they may appear automatically below your README content.</em></p>
-  </div>
+  <div style="text-align: center; margin-top: 10px;">
+    <a href="https://github.com/herawenn/automate" target="_blank" style="display: inline-block; margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=automate&theme=radical&show_owner=false" alt="Pinned Project: REPO_NAME_1" height="120px"/>
+    </a>
+    <a href="https://github.com/herawenn/reverse" target="_blank" style="display: inline-block; margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=reverse&theme=radical&show_owner=false" alt="Pinned Project: REPO_NAME_2" height="120px"/>
+    </a>
+    </div>
 </div>
 
 <div style="margin-bottom: 30px;">
