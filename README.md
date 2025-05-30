@@ -1,24 +1,26 @@
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="margin-right: 20px;">
-    <img src="https://avatars.githubusercontent.com/herawenn?s=150" width="150" height="150" alt="Alex - Profile Picture" style="border-radius: 50%;">
-    </div>
-
-  <div style="flex-grow: 1;">
-    <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">👋 Hello! I'm Alex</h1>
-    <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px;">
-      [`alex@fear.pw`](mailto:alex@fear.pw) | [`GMZQ NCC5 MN2Q NEQN`](http://159.89.178.159/good_times.txt) | [`admin@portlords.com`](mailto:admin@portlords.com)
-    <div style="margin-bottom: 20px;">
-      <a href="https://github.com/herawenn" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/github.svg?color=%23c9d1d9&height=24" alt="GitHub"/></a>
-      <a href="https://portlords.com" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/web.svg?color=%23c9d1d9&height=24" alt="Website"/></a>
-      <a href="mailto:alex@fear.pw" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/email.svg?color=%23c9d1d9&height=24" alt="Email"/></a>
-      <a href="https://discordapp.com/users/1143350468144275578" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/discord.svg?color=%23c9d1d9&height=24" alt="Discord"/></a>
-      </div>
-  </div>
-</div>
-
-<details style="margin-bottom: 20px;">
-  <summary><span style="font-weight: bold; color: #C9D1D9; font-size: 1.1em;">↕️ Expand for more!</span></summary>
-</details>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 30px; border: none;">
+  <tbody>
+    <tr>
+      <td style="width: 150px; padding-right: 20px; vertical-align: top; border: none;">
+        <img src="https://avatars.githubusercontent.com/herawenn?s=150" width="150" height="150" alt="Alex - Profile Picture" style="border-radius: 50%;">
+        </td>
+      <td style="vertical-align: top; border: none;">
+        <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">👋 Hello! I'm Alex</h1>
+        <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px; color: #C9D1D9;">
+          <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;"><code>alex@fear.pw</code></a> |
+          <a href="http://159.89.178.159/good_times.txt" style="color: #58A6FF; text-decoration: none;"><code>GMZQ NCC5 MN2Q NEQN</code></a> |
+          <a href="mailto:admin@portlords.com" style="color: #58A6FF; text-decoration: none;"><code>admin@portlords.com</code></a>
+        </p>
+        <div style="margin-bottom: 20px;">
+          <a href="https://github.com/herawenn" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/github.svg?color=%23c9d1d9&height=24" alt="GitHub"/></a>
+          <a href="https://portlords.com" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/web.svg?color=%23c9d1d9&height=24" alt="Website"/></a>
+          <a href="mailto:alex@fear.pw" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/email.svg?color=%23c9d1d9&height=24" alt="Email"/></a>
+          <a href="https://discordapp.com/users/1143350468144275578" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/discord.svg?color=%23c9d1d9&height=24" alt="Discord"/></a>
+          </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">👤 About Me</h2>
