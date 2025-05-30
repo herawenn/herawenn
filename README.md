@@ -51,7 +51,6 @@
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">✨ Tech Stack</h2>
   <div style="margin-left: 10px; margin-top: 10px;">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET (ASP.NET)" style="margin-right: 5px; margin-bottom: 5px;"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 5px; margin-bottom: 5px;"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 5px; margin-bottom: 5px;"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;"/>
