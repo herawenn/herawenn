@@ -2,7 +2,7 @@
   <tbody>
     <tr>
       <td style="width: 150px; padding-right: 20px; vertical-align: top; border: none;">
-        <img src="https://i.imgur.com/8pZTgcu.gif" width="150" height="150" alt="Alex - Profile Picture" style="border-radius: 50%;">
+        <img src="https://i.imgur.com/8pZTgcu.gif" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;">
       </td>
       <td style="vertical-align: top; border: none;">
         <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">👋 Hello Friend. I'm Alex</h1>
@@ -37,19 +37,6 @@
 </div>
 
 <div style="margin-bottom: 30px;">
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">✨ Tech Stack</h2>
-  <div style="margin-left: 10px; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 5px; margin-bottom: 5px;"/>
-  </div>
-</div>
-
-<div style="margin-bottom: 30px;">
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🚀 My Top Repositories</h2>
   <div style="text-align: center; margin-top: 10px;">
     <a href="https://github.com/herawenn/automate" target="_blank" style="display: inline-block; margin: 10px;">
@@ -61,22 +48,34 @@
 </div>
 
 <div style="margin-bottom: 30px;">
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">📊 Metrics</h2>
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" />
+  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">✨ Tech Stack</h2>
+  <div style="margin-left: 10px; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET (ASP.NET)" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 5px; margin-bottom: 5px;"/>
   </div>
 </div>
 
 <div style="margin-bottom: 30px;">
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🏆 Contributions & Activity</h2>
-  <p style="text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=herawenn&theme=synthwave&fire=FF69B4&ring=00FFFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF&background=1D1F21" alt="GitHub Streak for Herawenn" />
-  </p>
-  <div style="text-align: center; margin-top: 20px;">
+  
+  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">📊 Metrics & Activity</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" style="max-width: 495px; flex-grow: 1;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=herawenn&theme=synthwave&fire=FF69B4&ring=00FFFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF&background=1D1F21" alt="GitHub Streak for Herawenn" style="max-width: 450px; flex-grow: 1;" />
+  </div>
+
+  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🐍 Contribution Snake</h2>
+  <div style="text-align: center; margin-top: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg">
       <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-      <img alt="Herawenn's Contribution Snake" src="dist/github-snake.svg">
+      <img alt="Herawenn's Contribution Snake" src="dist/github-snake.svg" style="max-width: 100%;">
     </picture>
   </div>
+
 </div>
