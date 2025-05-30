@@ -1,9 +1,10 @@
+github.md
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px; border: none;">
   <tbody>
     <tr>
       <td style="width: 150px; padding-right: 20px; vertical-align: top; border: none;">
-        <img src="https://i.imgur.com/8pZTgcu.gif" width="150" height="150" alt="" style="border-radius: 50%;">
-        </td>
+        <img src="https://i.imgur.com/8pZTgcu.gif" width="150" height="150" alt="Alex - Profile Picture" style="border-radius: 50%;">
+      </td>
       <td style="vertical-align: top; border: none;">
         <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">👋 Hello! I'm Alex</h1>
         <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px; color: #C9D1D9;">
@@ -16,7 +17,7 @@
           <a href="https://portlords.com" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/web.svg?color=%23c9d1d9&height=24" alt="Website"/></a>
           <a href="mailto:alex@fear.pw" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/email.svg?color=%23c9d1d9&height=24" alt="Email"/></a>
           <a href="https://discordapp.com/users/1143350468144275578" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/discord.svg?color=%23c9d1d9&height=24" alt="Discord"/></a>
-          </div>
+        </div>
       </td>
     </tr>
   </tbody>
@@ -37,17 +38,40 @@
 </div>
 
 <div style="margin-bottom: 30px;">
+  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🚀 My Top Repositories</h2>
+  <div style="padding: 0 10px;">
+    <p>Here are a few projects I'm proud of:</p>
+    <ul>
+      <li>
+        <a href="YOUR_REPO_LINK_1" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Project Name 1</a> - Brief description of what this project does and its purpose. (Tech used: Python, Flask)
+      </li>
+      <li>
+        <a href="YOUR_REPO_LINK_2" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Project Name 2</a> - Another exciting project that solves a particular problem. (Tech used: C#, .NET)
+      </li>
+      <li>
+        <a href="YOUR_REPO_LINK_3" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Project Name 3</a> - A tool or library I developed. (Tech used: JavaScript, Node.js)
+      </li>
+      </ul>
+    <p><em>You can also use <a href="https://github.com/anuraghazra/github-readme-stats#pinned-repos-card" style="color: #58A6FF;">GitHub Readme Stats pinned repo cards</a> for a more visual style.</em></p>
+    <p><em>Alternatively, configure your <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile" style="color: #58A6FF;">pinned repositories on GitHub</a>, and they may appear automatically below your README content.</em></p>
+  </div>
+</div>
+
+<div style="margin-bottom: 30px;">
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">✨ Tech Stack</h2>
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <div style="margin-left: 10px; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 5px; margin-bottom: 5px;"/>
+  </div>
 </div>
 
 <div style="margin-bottom: 30px;">
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">📊 Metrics</h2>
-  <div style="text-align: center;"> <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" />
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" />
   </div>
 </div>
 
