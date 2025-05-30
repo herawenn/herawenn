@@ -38,14 +38,6 @@
   <a href="mailto:alex@fear.pw" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<!-- News -->
-<div style="text-align: center;" style="margin-bottom: 20px;">
-  <h3 style="color: #00FFFF;">📰 Latest in AI</h3>
-  <!-- START_AI_NEWS_HEADLINE -->
-  <p><em>Fetching the latest AI news...</em> 🤖</p>
-  <!-- END_AI_NEWS_HEADLINE -->
-</div>
-
 <!-- Collapsible Sections -->
 <!-- About Me -->
 <details>
