@@ -103,16 +103,6 @@
   </div>
 </div>
 
-<div style="margin-bottom: 30px;">
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">📌 Pinned Repositories</h2>
-  <p style="margin-left: 10px;"><em>(Your pinned repositories will appear here - manage them directly on GitHub)</em></p>
-</div>
-
-<div style="margin-bottom: 30px;">
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🕒 Recent Activity</h2>
-  <p style="margin-left: 10px;"><em>(Your recent GitHub activity will typically be displayed here by GitHub)</em></p>
-</div>
-
 <p style="text-align: center; margin-top: 50px; margin-bottom: 20px;">
   <small style="color: #8B949E;">From PortLords w Love ❤️</small>
   <br/>
