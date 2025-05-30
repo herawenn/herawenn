@@ -1,0 +1,61 @@
+name: Latest AI News
+
+on:
+  schedule:
+    - cron: '0 16 * * *'
+
+jobs:
+  fetch_news_and_update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Latest AI News
+        id: fetch_headline
+        run: |
+          RESPONSE=$(curl -s -L "https://newsapi.org/v2/everything?q=AI+OR+%22Artificial+Intelligence%22+NOT+crypto+NOT+NFT&sortBy=publishedAt&language=en&pageSize=1&apiKey=${{ secrets.NEWS_API_KEY }}")
+
+          ARTICLE_TITLE=$(echo "$RESPONSE" | jq -r '.articles[0].title // "Could not fetch title."')
+          ARTICLE_URL=$(echo "$RESPONSE" | jq -r '.articles[0].url // "#"')
+
+          ARTICLE_TITLE_ESCAPED=$(echo "$ARTICLE_TITLE" | sed 's/[\&/]/\\&/g' | sed 's/"/\\"/g')
+
+          MARKDOWN_LINK="<p><a href=\"${ARTICLE_URL}\" target=\"_blank\" style=\"color: #FFA500; text-decoration: none;\">${ARTICLE_TITLE_ESCAPED}</a></p>"
+
+          echo "MARKDOWN_OUTPUT=${MARKDOWN_LINK}" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          START_TOKEN="<!-- START_AI_NEWS_HEADLINE -->"
+          END_TOKEN="<!-- END_AI_NEWS_HEADLINE -->"
+          NEWS_CONTENT="${{ steps.fetch_headline.outputs.MARKDOWN_OUTPUT }}"
+
+          if [ -z "$(echo "$NEWS_CONTENT" | tr -d '[:space:]')" ]; then
+            echo "Fetched news content is empty. Skipping README update."
+            exit 0
+          fi
+
+          ESCAPED_NEWS_CONTENT=$(echo "$NEWS_CONTENT" | sed -e 's/[\&/]/\\&/g' -e 's|@|\\@|g')
+
+          echo "Escaped News Content for sed: $ESCAPED_NEWS_CONTENT"
+
+          TMP_FILE=$(mktemp)
+          sed "/${START_TOKEN}/,/${END_TOKEN}/c\\
+          ${START_TOKEN}\\
+          ${ESCAPED_NEWS_CONTENT}\\
+          ${END_TOKEN}" README.md > "$TMP_FILE" && mv "$TMP_FILE" README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "Chore: Updated latest AI news"
+            git push
+          else
+            echo "No changes to README.md. Skipping commit."
+          fi
+        # Optional: Only run commit if the previous step succeeded and actually made a change
+        # if: steps.update_readme.outcome == 'success' && steps.update_readme.outputs.changes_detected == 'true' # This would require update_readme step to output such a flag
