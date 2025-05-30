@@ -1,4 +1,3 @@
-github.md
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px; border: none;">
   <tbody>
     <tr>
@@ -41,11 +40,13 @@ github.md
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🚀 My Top Repositories</h2>
   <div style="text-align: center; margin-top: 10px;">
     <a href="https://github.com/herawenn/automate" target="_blank" style="display: inline-block; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=automate&theme=radical&show_owner=false" alt="Pinned Project: REPO_NAME_1" height="120px"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=automate&theme=radical&show_owner=false" alt="Pinned Project: automate" height="120px"/>
     </a>
     <a href="https://github.com/herawenn/reverse" target="_blank" style="display: inline-block; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=reverse&theme=radical&show_owner=false" alt="Pinned Project: REPO_NAME_2" height="120px"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=reverse&theme=radical&show_owner=false" alt="Pinned Project: reverse" height="120px"/>
     </a>
+    <a href="https://github.com/herawenn/communityBot" target="_blank" style="display: inline-block; margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=communityBot&theme=radical&show_owner=false" alt="Pinned Project: communityBot" height="120px"/>
     </div>
 </div>
 
@@ -53,10 +54,13 @@ github.md
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">✨ Tech Stack</h2>
   <div style="margin-left: 10px; margin-top: 10px;">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET (ASP.NET)" style="margin-right: 5px; margin-bottom: 5px;"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 5px; margin-bottom: 5px;"/>
   </div>
 </div>
 
