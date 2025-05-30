@@ -38,10 +38,6 @@
   <a href="mailto:alex@fear.pw" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<p style="text-align: center;">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGRkYiLz48L3N2Zz4=" width="80%" alt="Separator"/>
-</p>
-
 <!-- News -->
 <div style="text-align: center;" style="margin-bottom: 20px;">
   <h3 style="color: #00FFFF;">📰 Latest in AI</h3>
@@ -51,14 +47,6 @@
 </div>
 
 <!-- Collapsible Sections -->
-
-<details>
-  <summary><span style="font-weight: bold; color: #C9D1D9; font-size: 1.1em;">↕️ Expand for more!</span></summary>
-  <div style="padding-left: 25px; color: #C9D1D9; margin-top: 5px;">
-    <p><em>This section contains more introductory information about me.</em></p>
-  </div>
-</details>
-
 <!-- About Me -->
 <details>
   <summary><span style="font-weight: bold; color: #C9D1D9; font-size: 1.1em;">👤 About</span></summary>
