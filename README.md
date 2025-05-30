@@ -1,6 +1,6 @@
 <!-- GIF -->
 <div align="center">
-  <img src="https://i.imgur.com/ZioG6fA.gif" align="center" style="width: 100%; max-width: 800px;" alt="Herawenn's Profile Banner"/>
+  <img src="https://i.imgur.com/VX1boY0.gif" align="center" style="width: 100%; max-width: 800px;" alt="Herawenn's Profile Banner"/>
 </div>  
 
 <!-- Header -->
