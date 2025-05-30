@@ -1,38 +1,41 @@
 <!-- GIF -->
-<div align="center">
-  <img src="https://i.imgur.com/VX1boY0.gif" align="center" style="width: 100%; max-width: 800px;" alt="Herawenn's Profile Banner"/>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://i.imgur.com/ZioG6fA.gif" align="center" style="width: 100%; max-width: 800px;" alt="Banner"/>
 </div>  
 
-<!-- Header -->
-<div align="center">
-  <h1 style="color: #FF69B4; font-size: 2.5em; margin-bottom: 5px;">👋 Hello friend! I'm Alex</h1>
-  <p style="color: #00FFFF; font-size: 1.2em; margin-top: 0px;">
+<!-- Header Text -->
+<div align="center" style="margin-top: 10px;">
+  <h1 style="color: #FF69B4; font-size: 2.5em; margin-bottom: 5px;">👋 Hello! I'm Alex</h1>
+  <p style="color: #00FFFF; font-size: 1.2em; margin-top: 0px; margin-bottom: 20px;">
     🐍 Python Dev | 🤖 AI/ML Enthusiast | 🌱 Automation
   </p>
 </div>
 
-<!-- Links -->
-<div align="center" style="margin-bottom: 15px; margin-top: 10px;">
-  <a href="https://portlords.com" target="_blank"><img src="https://img.shields.io/badge/portlords.com-5596E6?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="portlords.com"/></a>
-  <a href="https://mallory.pw" target="_blank"><img src="https://img.shields.io/badge/mallory.pw-7B68EE?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="mallory.pw"/></a>
-  <a href="https://mulicio.us" target="_blank"><img src="https://img.shields.io/badge/mulicio.us-78C850?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="mulicio.us"/></a>
-  <br/>
+<!-- Website Links -->
+<div align="center" style="margin-bottom: 10px; font-size: 1.1em;">
+  <a href="https://portlords.com" target="_blank" style="color: #5596E6; text-decoration: none; margin: 0 10px; font-weight: bold;">portlords.com</a>
+  <span style="color: #666; margin: 0 5px;">|</span>
+  <a href="https://mallory.pw" target="_blank" style="color: #7B68EE; text-decoration: none; margin: 0 10px; font-weight: bold;">mallory.pw</a>
+  <span style="color: #666; margin: 0 5px;">|</span>
+  <a href="https://mulicio.us" target="_blank" style="color: #78C850; text-decoration: none; margin: 0 10px; font-weight: bold;">mulicio.us</a>
+</div>
+
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://ililililililililililililillilliliillliiililllilililililiillilil.ilililililililililililililliiiilililliiililllilililililiillilil.com/" target="_blank" style="font-family: monospace; word-break: break-all; color: #FFA500; text-decoration: none; font-size: 0.9em;">
     ililililililililililililillilliliillliiililllilililililiillilil.ilililililililililililililliiiilililliiililllilililililiillilil.com
   </a>
 </div>
 
-<!-- Socials -->
-<div align="center" style="margin-bottom: 20px;">
+<!-- Social Badges -->
+<div align="center" style="margin-bottom: 30px;">
   <a href="https://github.com/herawenn" target="_blank"><img src="https://img.shields.io/badge/GitHub-%40herawenn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://instagram.com/portlord.ss" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40portlord.ss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://discordapp.com/users/1143350468144275578" target="_blank"><img src="https://img.shields.io/badge/Discord-Herawenn-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="mailto:alex@fear.pw" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<!-- Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/gruvbox/border.svg" width="100%" alt="Separator"/>
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGRkYiLz48L3N2Zz4=" width="80%" alt="Separator"/>
 </p>
 
 <!-- About Me -->
