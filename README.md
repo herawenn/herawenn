@@ -27,7 +27,7 @@
   <div align="left" style="padding: 0 10px;">
     <ul>
       <li>🧠 I’m currently learning <strong>React</strong>.</li>
-      <li>🌱 Ask me about <strong>Python</strong>, <strong>Cybersecurity</strong>, or <strong>CLI</strong>.</li>
+      <li>🌱 Ask me about <strong>Python</strong>, <strong>AI</strong>, or the <strong>CLI</strong>.</li>
       <li>🚬 Professional datawhore for <strong>PortLords</strong>.</li>
       <li>😆 Why was the computer cold? It left its <strong>Windows</strong> open.</li>
       <li>🤝 Actively seeking collaborators for <strong>AI</strong> projects. Let's build something together!</li>
