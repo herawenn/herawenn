@@ -26,11 +26,11 @@
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">👤 About Me</h2>
   <div align="left" style="padding: 0 10px;">
     <ul>
-      <li>🧠 I’m currently learning <strong>Automation</strong> using <strong>AI/ML</strong>.</li>
-      <li>🌱 My main language is <strong>Python</strong>, but I also like <strong>C#</strong>.</li>
-      <li>⏳ I've been coding in my spare time since <strong>2020</strong>.</li>
+      <li>🧠 I’m currently learning <strong>React</strong>.</li>
+      <li>🌱 Ask me about <strong>python</strong> or <strong>automation</strong>.</li>
+      <li>⏳ Self taught since <strong>2020</strong>.</li>
       <li>🚬 I have an addiction to <strong>Data</strong>.</li>
-      <li>😆 If at first you don't succeed; call it <strong>Version 1.0</strong>.</li>
+      <li>😆 Why was the computer cold? It left its <strong>Windows</strong> open.</li>
       <li>🤝 Actively seeking collaborators for <strong>AI</strong> projects. Let's build something together!</li>
     </ul>
   </div>
