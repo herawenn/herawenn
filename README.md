@@ -74,7 +74,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" style="max-width: 495px; flex-grow: 1;" />
   </div>
 
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🐍 Contribution Snake</h2>
   <div style="text-align: center; margin-top: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg">
