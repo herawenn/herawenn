@@ -31,17 +31,9 @@
       <li>🚬 Professional datawhore for <strong>PortLords</strong>.</li>
       <li>😆 Even <strong>Stevie Wonder</strong> couldn't see me coming.</li>
       <li>🤝 Actively seeking collaborators for <strong>AI</strong> projects. Let's build something together!</li>
+      <li>🎧 Check out my playlist on <strong><a href="https://open.spotify.com/playlist/3tfR8SjWvXjqiXEYCEi7H">Spotify</a></strong>.</li>
     </ul>
   </div>
-</div>
-
-<div style="margin-bottom: 30px;">
-  <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🎧 Now on Repeat</h2>
-  <div style="text-align: center; margin-top: 10px;">
-    <a href="https://open.spotify.com/playlist/3tfR8SjWvXjqiXEYCEi7H" target="_blank">
-            <img src="https://i.imgur.com/aliRoRo.png" alt="Work" style="width: 352px; border-radius: 12px;">
-    </a>
-  </div>
 </div>
 
 <div style="margin-bottom: 30px;">
