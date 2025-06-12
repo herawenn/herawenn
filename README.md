@@ -7,9 +7,9 @@
       <td style="vertical-align: top; border: none;">
         <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">👋 Hello Friend. I'm Alex</h1>
         <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px; color: #C9D1D9;">
-          <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;"><code>alex@fear.pw</code></a> |
-          <a href="https://pastebin.com/iJB2vF8b" style="color: #58A6FF; text-decoration: none;"><code>GMZQ NCC5 MN2Q NEQN</code></a> |
-          <a href="https://discordapp.com/users/1143350468144275578" style="color: #58A6FF; text-decoration: none;"><code>Discord</code></a>
+          <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;"><code>alex@fear.pw</code></a> | 
+          <a href="https://pastebin.com/iJB2vF8b" style="color: #58A6FF; text-decoration: none;"><code>GMZQ NCC5 MN2Q NEQN</code></a> | 
+          <a href="https://discordapp.com/users/1143350468144275578" style="color: #58A6FF; text-decoration: none;"><code>My Discord</code></a>
         </p>
       </td>
     </tr>
