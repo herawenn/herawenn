@@ -31,7 +31,7 @@
       <li>🚬 Professional datawhore for <strong>PortLords</strong>.</li>
       <li>😆 Even <strong>Stevie Wonder</strong> couldn't see me coming.</li>
       <li>🤝 Actively seeking collaborators for <strong>AI</strong> projects. Let's build something together!</li>
-      <li>🎧 Check out my playlist on <strong><a href="https://open.spotify.com/playlist/3tfR8SjWvXjqiXEYCEi7H">Spotify</a></strong>.</li>
+      <li>🎧 Check out my playlist on <strong><a href="https://open.spotify.com/playlist/3tfRBsjwMYxjqiXEYcEI7H?si=2373bb3918754504">Spotify</a></strong>.</li>
     </ul>
   </div>
 </div>
