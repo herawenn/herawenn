@@ -9,7 +9,7 @@
         <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px; color: #C9D1D9;">
           <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;"><code>alex@fear.pw</code></a> |
           <a href="https://pastebin.com/iJB2vF8b" style="color: #58A6FF; text-decoration: none;"><code>GMZQ NCC5 MN2Q NEQN</code></a> |
-          <a href="https://discordapp.com/users/1143350468144275578" style="color: #58A6FF; text-decoration: none;"><code>My Discord</code></a>
+          <a href="https://discordapp.com/users/1143350468144275578" style="color: #58A6FF; text-decoration: none;"><code>Discord</code></a>
         </p>
         <div style="margin-bottom: 20px;">
           <a href="https://discordapp.com/users/1143350468144275578" target="_blank" style="margin-right: 10px;"><img src="https://api.iconify.design/mdi/discord.svg?color=%23c9d1d9&height=24" alt="Discord"/></a>
