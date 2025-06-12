@@ -39,7 +39,7 @@
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">🎧 Now on Repeat</h2>
   <div style="text-align: center; margin-top: 10px;">
     <a href="https://open.spotify.com/playlist/3tfR8SjWvXjqiXEYCEi7H" target="_blank">
-            <img src="https://i.imgur.com/70fwJY6.jpg" alt="Work" style="width: 352px; border-radius: 12px;">
+            <img src="https://i.imgur.com/aliRoRo.png" alt="Work" style="width: 352px; border-radius: 12px;">
     </a>
   </div>
 </div>
