@@ -5,7 +5,7 @@
         <img src="https://i.imgur.com/8pZTgcu.gif" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;">
       </td>
       <td style="vertical-align: top; border: none;">
-        <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">👋 Hello Friend. I'm Alex</h1>
+        <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">Hello Friend 👋</h1>
         <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px; color: #C9D1D9;">
           <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;"><code>alex@fear.pw</code></a> | 
           <a href="https://pastebin.com/iJB2vF8b" style="color: #58A6FF; text-decoration: none;"><code>GMZQ NCC5 MN2Q NEQN</code></a> | 
