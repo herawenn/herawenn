@@ -5,12 +5,13 @@
         <img src="https://i.imgur.com/8pZTgcu.gif" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;">
       </td>
       <td style="vertical-align: top; border: none;">
-        <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">Hello Friend 👋 Im Alex</h1>
-        <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px; color: #C9D1D9;">
-          <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;"><code>alex@fear.pw</code></a> | 
-          <a href="https://pastebin.com/iJB2vF8b" style="color: #58A6FF; text-decoration: none;"><code>GMZQ NCC5 MN2Q NEQN</code></a> | 
-          <a href="https://discordapp.com/users/1143350468144275578" style="color: #58A6FF; text-decoration: none;"><code>My Discord</code></a>
-        </p>
+        <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0; text-align: center;">Hello Friend 👋</h1>
+        <div style="margin-top: 10px; text-align: center;">
+          <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none; margin: 0 5px;"><code>alex@fear.pw</code></a> |
+          <a href="https://pastebin.com/iJB2vF8b" style="color: #58A6FF; text-decoration: none; margin: 0 5px;"><code>GMZQ NCC5 MN2Q NEQN</code></a> |
+          <a href="https://discordapp.com/users/1143350468144275578" style="color: #58A6FF; text-decoration: none; margin: 0 5px;"><code>My Discord</code></a>
+        </div>
+        <h2 style="font-size: 1.5em; margin-top: 10px; text-align: center;">Alex Terrbile</h2>
       </td>
     </tr>
   </tbody>
@@ -44,7 +45,8 @@
     </a>
     <a href="https://github.com/herawenn/communityBot" target="_blank" style="display: inline-block; margin: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=communityBot&theme=radical&show_owner=false" alt="Pinned Project: communityBot" height="120px"/>
-    </div>
+    </a>
+  </div>
 </div>
 
 <div style="margin-bottom: 30px;">
@@ -62,7 +64,6 @@
 </div>
 
 <div style="margin-bottom: 30px;">
-  
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;"></h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" style="max-width: 495px; flex-grow: 1;" />
@@ -76,5 +77,4 @@
       <img alt="Herawenn's Contribution Snake" src="dist/github-snake.svg" style="max-width: 100%;">
     </picture>
   </div>
-
 </div>
