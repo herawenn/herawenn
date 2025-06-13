@@ -36,11 +36,11 @@
     <a href="https://github.com/herawenn/code-companion" target="_blank" style="display: inline-block; margin: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=code-companion&theme=radical&show_owner=false" alt="Pinned Project: code-companion" height="120px"/>
     </a>
+    <a href="https://github.com/herawenn/reconnaissance" target="_blank" style="display: inline-block; margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=reconnaissance&theme=radical&show_owner=false" alt="Pinned Project: reconnaissance" height="120px"/>
+    </a>
     <a href="https://github.com/herawenn/automate" target="_blank" style="display: inline-block; margin: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=automate&theme=radical&show_owner=false" alt="Pinned Project: automate" height="120px"/>
-    </a>
-    <a href="https://github.com/herawenn/reverse" target="_blank" style="display: inline-block; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=reverse&theme=radical&show_owner=false" alt="Pinned Project: reverse" height="120px"/>
     </a>
     <a href="https://github.com/herawenn/communityBot" target="_blank" style="display: inline-block; margin: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=herawenn&repo=communityBot&theme=radical&show_owner=false" alt="Pinned Project: communityBot" height="120px"/>
