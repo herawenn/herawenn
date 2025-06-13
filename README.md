@@ -7,22 +7,22 @@
       <td style="vertical-align: top; border: none;">
         <h1 style="font-size: 2.5em; margin-bottom: 5px; margin-top: 0;">Hello Friend 👋 Im Alex</h1>
         <p style="font-size: 1.2em; margin-top: 0px; margin-bottom: 10px; color: #C9D1D9;">
-          <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;"><code>alex@fear.pw</code></a>  
+          <a href="mailto:alex@fear.pw" style="color: #58A6FF; text-decoration: none;"><code>alex@fear.pw</code></a> |
           <a href="https://pastebin.com/iJB2vF8b" style="color: #58A6FF; text-decoration: none;"><code>GMZQ NCC5 MN2Q NEQN</code></a> |
           <a href="https://discordapp.com/users/1143350468144275578" style="color: #58A6FF; text-decoration: none;"><code>My Discord</code></a>
         </p>
         <div style="margin-top: 10px;">
           <a href="https://twitter.com/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" style="margin-right: 5px; margin-bottom: 5px;"/>
+            <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="width: 24px; height: 24px; margin-right: 10px;"/>
           </a>
           <a href="https://linkedin.com/in/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 5px; margin-bottom: 5px;"/>
+            <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px; margin-right: 10px;"/>
           </a>
           <a href="https://facebook.com/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" style="margin-right: 5px; margin-bottom: 5px;"/>
+            <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" style="width: 24px; height: 24px; margin-right: 10px;"/>
           </a>
           <a href="https://instagram.com/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin-right: 5px; margin-bottom: 5px;"/>
+            <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" style="width: 24px; height: 24px; margin-right: 10px;"/>
           </a>
         </div>
       </td>
@@ -79,7 +79,7 @@
 
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;"></h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 15px; margin-top: 10px; margin-bottom: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="GitHub Stats" style="max-width: 495px; flex-grow: 1;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=herawenn&show_icons=true&theme=radical&icon_color=00FFFF&title_color=FF69B4&text_color=FFF&bg_color=1D1F21&border_color=FF69B4&hide_border=false&count_private=true" alt="Herawenn's GitHub Stats" style="max-width: 495px; flex-grow: 1;" />
   </div>
 
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;"></h2>
@@ -87,8 +87,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg">
       <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-      <img alt="Contribution Snake" src="dist/github-snake.svg" style="max-width: 100%;">
+      <img alt="Herawenn's Contribution Snake" src="dist/github-snake.svg" style="max-width: 100%;">
     </picture>
   </div>
-
 </div>
