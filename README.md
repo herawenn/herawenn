@@ -75,6 +75,7 @@
       <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
       <img alt="Herawenn's Contribution Snake" src="dist/github-snake.svg" style="max-width: 100%;">
     </picture>
-  </div>
 
+  </div>
+<img src="http://159.89.178.159:5013" alt="Random Programming Meme" style="max-width: 100%;">
 </div>
