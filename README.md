@@ -77,5 +77,5 @@
     </picture>
 
   </div>
-<img src="http://159.89.178.159:5013" alt="Random Programming Meme" style="max-width: 100%;">
+<img src="https://mallory.pw/meme" alt="Random Programming Meme">
 </div>
