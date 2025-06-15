@@ -24,7 +24,7 @@
       <li>🌱 Ask me about <strong>Python</strong>, <strong>AI</strong>, or <strong>CLI</strong>.</li>
       <li>🤝 Actively seeking collaborators. Let's build something together!</li>
       <li>😆 Code so clean <strong>Stevie Wonder</strong> can see it.</li>
-      <li>🎧 Im listening to <strong><a href="https://open.spotify.com/playlist/3tfRBsjwMYxjqiXEYcEI7H?si=2373bb3918754504">Work</strong></a> while i code.</li>
+      <li>🎧 If im coding, i'm listening to my <strong><a href="https://open.spotify.com/playlist/3tfRBsjwMYxjqiXEYcEI7H?si=2373bb3918754504">Spotify Playlist</strong></a>.</li>
     </ul>
   </div>
 </div>
