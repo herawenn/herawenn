@@ -50,13 +50,13 @@
   <h2 style="font-size: 1.7em; border-bottom: 1px solid #30363D; padding-bottom: 0.3em; margin-bottom: 1em;">✨ Tech Stack</h2>
   <div style="margin-left: 10px; margin-top: 10px;">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET (ASP.NET)" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 5px; margin-bottom: 5px;"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin-right: 5px; margin-bottom: 5px;"/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 5px; margin-bottom: 5px;"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" style="margin-right: 5px; margin-bottom: 5px;"/>
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="margin-right: 5px; margin-bottom: 5px;"/>
   </div>
 </div>
 
