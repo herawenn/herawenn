@@ -22,9 +22,9 @@
     <ul>
       <li>🧠 I’m currently working on <strong><a href="https://github.com/herawenn/code-companion">Code-Companion</a></strong>.</li>
       <li>🌱 Ask me about <strong>Python</strong>, <strong>AI</strong>, or <strong>CLI</strong>.</li>
-      <li>🤝 Actively seeking collaborators. Let's build something together!</li>
+      <li>🤝 Actively seeking people to build stuff with!</li>
       <li>😆 Code so clean <strong>Stevie Wonder</strong> can see it.</li>
-      <li>🎧 If i'm coding, i'm listening to my <strong><a href="https://open.spotify.com/playlist/3tfRBsjwMYxjqiXEYcEI7H?si=2373bb3918754504">Work</strong></a> playlist.</li>
+      <li>🎧 If i'm coding i'm listening to my <strong><a href="https://open.spotify.com/playlist/3tfRBsjwMYxjqiXEYcEI7H?si=2373bb3918754504">Work</strong></a> playlist.</li>
     </ul>
   </div>
 </div>
